@@ -1,0 +1,55 @@
+/* Your Website Styles */
+
+/* Body Texts */
+
+
+header {
+	background: #6ddd9d;
+	max-width: 100%;
+	font-family: 'Bad Script', cursive;
+	text-align: center;
+	border-bottom: solid;
+}
+
+h3 {
+	color: purple;
+}
+
+p {
+	max-width: 75%;
+	margin: 20px;
+}
+
+body {
+	font-family: 'Quicksand', sans-serif;
+	background-color: #ccffff;
+}
+
+/* Anchor Links */
+
+a {
+	list-style: none;
+	text-decoration: none;
+	color: black;
+}
+
+a.selected, a:hover {
+	color: #ffccff;
+}
+
+div {
+	margin-top: -60px;	x 
+}
+
+footer ul {
+	font-size: 0.9em;
+	clear: both;
+	text-align: left;
+	list-style: none;
+}
+
+/* Show Grid */
+.showgrid {
+	background: 
+}
+
