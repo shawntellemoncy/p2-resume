@@ -4,7 +4,7 @@
 
 
 header {
-	background: #6ddd9d;
+	background: #FEFEF2;
 	max-width: 100%;
 	font-family: 'Bad Script', cursive;
 	text-align: center;
@@ -13,6 +13,12 @@ header {
 
 h3 {
 	color: purple;
+	border-bottom: solid;
+	margin: 20px;
+}
+
+h4 {
+	margin: 20px;
 }
 
 p {
@@ -22,6 +28,33 @@ p {
 
 body {
 	font-family: 'Quicksand', sans-serif;
+}
+
+aside {
+	font-family: 'Handlee', cursive;
+	font-size: 1.40em;
+	padding: 50px 50px;
+	margin-left: 40px;
+}
+
+aside p {
+	text-align: center;
+}
+
+.image {
+	width: 50%;
+	border-radius: 10%;
+	margin: auto;
+	display: block;
+	margin-top: 30px;
+
+}
+
+html {
+	background: url('../img/image-actualsize1.png');
+}
+
+.container {
 	background-color: #ccffff;
 }
 
@@ -43,7 +76,6 @@ div {
 
 footer ul {
 	font-size: 0.9em;
-	clear: both;
 	text-align: left;
 	list-style: none;
 }
