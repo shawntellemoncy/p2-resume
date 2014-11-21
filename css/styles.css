@@ -61,8 +61,9 @@ width: 120px;
 }
 
 html {
-	background: url(http://www.hdwallpapersinn.com/wp-content/uploads/2014/09/Vintage-Heart.jpg);
+	background: url('../img/Vintage-Heart.jpg');	
 }
+
 .container {
 	background-color: #ccffff;
 }
