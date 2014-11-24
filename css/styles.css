@@ -11,7 +11,7 @@ html {
 }
 
 header {
-	background: #FEF2FD;
+	background: rgba(254,242,253,0.9);
 	max-width: 100%;
 	font-family: 'Bad Script', cursive;
 	text-align: center;
@@ -55,19 +55,22 @@ aside p {
 	display: block;
 	margin-top: 30px;
 	border: solid;
-
 }
 
 .year {
-background: purple;
-color: #ccffff;
-text-align: center;
-float: right;
-margin-top: -37px;
-width: 120px;
+	background: purple;
+	color: #ccffff;
+	text-align: center;
+	float: right;
+	margin-top: -37px;
+	width: 120px;
 }
 
+<<<<<<< HEAD
 .container {
+=======
+.main {
+>>>>>>> FETCH_HEAD
 	background-color: #ccffff;
 }
 
@@ -81,10 +84,6 @@ a {
 
 a.selected, a:hover {
 	color: #ffccff;
-}
-
-div {
-	margin-top: -60px;	x 
 }
 
 footer ul {
