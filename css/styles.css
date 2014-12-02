@@ -55,19 +55,25 @@ aside p {
 	display: block;
 	margin-top: 30px;
 	border: solid;
-
 }
 
 .year {
-background: purple;
-color: #ccffff;
-text-align: center;
-float: right;
-margin-top: -37px;
-width: 120px;
+	background: purple;
+	color: #ccffff;
+	text-align: center;
+	float: right;
+	margin-top: -37px;
+	width: 120px;
 }
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> FETCH_HEAD
 .container {
+=======
+.main {
+>>>>>>> FETCH_HEAD
 	background-color: #ccffff;
 }
 
@@ -81,10 +87,6 @@ a {
 
 a.selected, a:hover {
 	color: #ffccff;
-}
-
-div {
-	margin-top: -60px;	x 
 }
 
 footer ul {
